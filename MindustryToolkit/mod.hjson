@@ -1,0 +1,10 @@
+{
+	"name": "mindustry-toolkit",
+	"displayName": "Mindustry Toolkit",
+	"author": "Pointifix",
+	"description": "",
+	"repo": "",
+	"hidden": true,
+	"version": "1.0",
+	"minGameVersion": 120,
+}

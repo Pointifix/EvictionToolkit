@@ -1,0 +1,10 @@
+{
+	"name": "BetterResourceEnergySchematicsDisplay",
+	"displayName": "Better Resource Energy Schematics Display",
+	"author": "Pointifix",
+	"description": "",
+	"repo": "",
+	"hidden": true,
+	"version": "1.0",
+	"minGameVersion": 120,
+}
