@@ -1,6 +1,6 @@
 # EvictionToolkit
 
-Two Mindustry plugins which add various PVP enhancements.
+Two Mindustry mods which add various PVP enhancements.
 
 ## Better Resource, Energy and Schematics Display
 
