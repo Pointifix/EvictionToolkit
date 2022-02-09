@@ -2,6 +2,8 @@
 
 Two Mindustry mods which add various PVP enhancements.
 
+Zip the folders and move them to to mod folder to use them
+
 ## Better Resource, Energy and Schematics Display
 
 adds 3 tables to the HUD, a better core item display which also displays the rate of change per second, a global power production and storage display and
