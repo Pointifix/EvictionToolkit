@@ -55,4 +55,4 @@ Placing defense schematics this way adds all unloaders of the schematic to a lis
 
 The last features is saving schematics up to a size of 100x100 by selecting a schematic with the remove tool and not releasing the mouse but pressing `l`.
 
-
+**Too get all features to work you likely will need to change some hardcoded values in the scripts, like the search texts of the schematics menu or the schematics for the better defense placement UI**
