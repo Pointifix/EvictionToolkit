@@ -41,7 +41,6 @@ When a tile gets tapped the following UI appears:
 The first three buttons connect the tapped tile to the nearest core with the chosen conveyor type, avoiding nearby buildings to not spoil the conveyor with other items.
 
 ![image](https://user-images.githubusercontent.com/35230128/153238891-66e90675-7435-4d22-a059-05334874715b.png)
-To enable this mode, press [pointi, what do you press to open this menu?]
 The mechanical/pneumatic drill buttons fill a resource with drills, the direction of which is chosen in a second button menu. The airblast drill icon fills the resources with an optimum amount of airblast drills and places water extractors and power nodes nearby (those two buttons can crash the game when used on the world border)  
 
 ![image](https://user-images.githubusercontent.com/35230128/153239060-9319d3ee-f167-4342-8494-4255a1132d39.png) ![image](https://user-images.githubusercontent.com/35230128/153239097-7f2ba461-cf20-4456-8705-492ff88f0884.png) ![image](https://user-images.githubusercontent.com/35230128/153239240-faad708f-e525-49ef-881e-26c1436a038a.png)
